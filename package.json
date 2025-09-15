@@ -1,0 +1,20 @@
+{
+  "name": "serverProtect",
+  "version": "1.0.0",
+  "description": " ",
+  "main": "serverProtectOnCPU.js",
+  "dependencies": {
+    "pm2": "^5.1.0",
+    "pm2-logrotate": "^2.7.0",
+    "axios": "^1.4.0",
+    "node-os-utils": "^1.3.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.6.3"
+  }
+}
